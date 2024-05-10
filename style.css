@@ -15,7 +15,7 @@ header {
    
  }
  body{
-    background-color: #0d5599;
+    background-color: #2dddce;
  }
  
  
@@ -32,7 +32,7 @@ header {
  .titulo2{
     font-size: 100px;
     text-align: center;
-    color:#2f67af ;
+    color:#1de4e4 ;
    
  }
   
@@ -40,7 +40,7 @@ header {
     margin-left: 100px;
     margin-top: 200px;
     margin-right: 1550px;;
-    background-color:#1da2ca;
+    background-color:#11bbbb;
     height: 300px;
    
  }
