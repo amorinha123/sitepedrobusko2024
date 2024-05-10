@@ -1,23 +1,82 @@
-* {
+header {
+    background-image:linear-gradient(to top, #b3f0f8, #6174de);
     margin: 0;
     padding: 0;
-}
-
-.cabecalho {
-    background-color: #424E61;
-    color: white;
-    display: flex;
+    display:block ;
     justify-content: space-around;
-    align-items: center;
-    padding: 24px 0;
-}
-
-.cabecalho-imagem{
-    width: 20%;
-}
-
-.cabecalho-lista-item{
-    display: inline-block;
-    margin: 0 16px;
-    font-size: 24px;
-}
+    padding: 24px;
+    color: #26a3c9;
+   
+ }
+ body{
+    background-color: #b8b3f8;
+ }
+ 
+ 
+ 
+ 
+ .titulo1{
+    font-size: 50px;
+    text-align: center;
+    color: #7083da;
+    font-style: italic;
+ }
+ 
+ 
+ .titulo2{
+    font-size: 100px;
+    text-align: center;
+    color:#696cf0 ;
+   
+ }
+  
+ .escola {
+    margin-left: 100px;
+    margin-top: 200px;
+    margin-right: 1550px;;
+    background-color:#6aecec;
+    height: 300px;
+   
+ }
+ .escola-imagem{
+    margin-left: 450px ;
+    margin-bottom: 1400px;
+   
+ }
+ 
+ 
+ .estudante {
+    padding: 24px;
+ }
+ 
+ 
+ .estudante-div{
+    text-align: center;
+    padding:26px 0;
+    font-size: 40px;
+ ;
+ }
+ 
+ 
+ .estudante-titulo{
+    text-align: center;
+    padding: 50px 0;
+    font-size: 50px;
+ /*/ background-color:#46alcf;/*/
+ }
+ 
+ 
+ .estudante-todos{
+    display: grid;
+    grid-template-columns: 20%  20% 20% 20% 20%
+   
+ }
+ .nossa-escola{
+    font-size: 50px;
+    text-align:center;
+    margin-left: 850px;
+   
+ }
+ 
+ 
+ 
